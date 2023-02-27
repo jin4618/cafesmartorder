@@ -1,5 +1,5 @@
 ## :pushpin: cafesmartorder
->음식 메뉴 추천 프로그램 
+>카페 스마트 오더 프로그램 
 
 
 </br>
@@ -17,7 +17,7 @@
 </br>
 
 ### 3.ERD
-<img src="./ERD.jpg" width="500" height="500">
+<img src="./ERD.jpg" width="500" height="300">
 
 </br>
 
