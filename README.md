@@ -42,7 +42,7 @@
 </br>
 </br>
 
-4-2. Connection :pushpin: 코드확인()
+4-2. Connection :pushpin: [코드확인]()
 - JDBC를 활용한 OracleDB 연결
 </br>
 </br>
