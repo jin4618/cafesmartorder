@@ -32,7 +32,6 @@
 - 회원 가입 및 탈퇴를 할 수 있다.
 
 </br>
-
 <details>
 <summary>상세설명</summary>
 
