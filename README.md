@@ -42,35 +42,40 @@
 </br>
 </br>
 
-4-2. 메인 화면
+4-2. Connection :pushpin: 코드확인()
+- JDBC를 활용한 OracleDB 연결
+</br>
+</br>
+
+4-3. 메인 화면
 </br>
 
 <img src="img/Main.png" width="600" height="300">
 </br>
 </br>
 
-4-3. 회원가입 및 탈퇴
+4-4. 회원가입 및 탈퇴
 </br>
 
 <img src="img/Member.png" width="600" height="300">
 </br>
 </br>
 
-4-4. 주문
+4-5. 주문
 </br>
 
 <img src="img/Order.png" width="600" height="300">
 </br>
 </br>
 
-4-5. 포인트 적립 및 결제
+4-6. 포인트 적립 및 결제
 </br>
 
 <img src="img/Pay.png" width="600" height="300">
 </br>
 </br>
 
-4-6. 유효성 검사
+4-7. 유효성 검사
 </br>
 
 <img src="img/validations.png" width="600" height="300">
