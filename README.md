@@ -41,7 +41,7 @@
 </br>
 </br>
 
-#### 4-2. Connection :pushpin: [코드확인]()
+#### 4-2. Connection :pushpin: [코드확인](https://github.com/jin4618/cafesmartorder/blob/4ce1b1a21be77d43740bc542db8b9ff976e21174/src/connection/Connection1.java#L3-L23)
 - JDBC를 활용한 OracleDB 연결
 
 </br>
