@@ -51,7 +51,8 @@
 <img src="img/Main.png" width="600" height="300">
 </br>
 -	오늘의 인기메뉴</br>
- -> 결제할 때마다 주문 내역을 DB에 ‘total’ 테이블에 메뉴와 수량을 저장하여 가장 많이 팔린 메뉴 출력 :pushpin: [코드확인]() </br>
+ -> 결제할 때마다 주문 내역을 DB에 ‘total’ 테이블에 메뉴와 수량을 저장하여 가장 많이 팔린 메뉴 출력 :pushpin: [코드확인](https://github.com/jin4618/cafesmartorder/blob/5269d643895da782c0d9a238d979522fe9938847/src/total/TotalDAO.java#L41-L64)
+</br>
 -	회원생성 버튼</br>
 -	메뉴 버튼</br>
 -	결제 버튼</br>
