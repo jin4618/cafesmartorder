@@ -66,7 +66,7 @@
 4-5. 유효성 검사
 </br>
 
-<img src="img/validation.png" width="600" height="300">
+<img src="img/validations.png" width="600" height="300">
 </br>
 </br>
 
