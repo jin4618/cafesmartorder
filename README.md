@@ -33,6 +33,12 @@
 
 </br>
 
+<details>
+<summary>상세설명</summary>
+
+내용
+</details>
+
 ### 5.핵심 트러블 슈팅 
 
 ### 6. 느낀점
