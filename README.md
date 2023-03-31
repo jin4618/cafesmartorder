@@ -39,6 +39,38 @@
 </br>
 
 <img src="./프로젝트구조.png" width="600" height="300">
+</br>
+</br>
+
+4-2. 메인 화면
+</br>
+
+<img src="./Main.png" width="600" height="300">
+</br>
+</br>
+
+4-3. 회원가입 및 탈퇴
+</br>
+
+<img src="./Member.png" width="600" height="300">
+</br>
+</br>
+
+4-4. 포인트 적립 및 결제
+</br>
+
+<img src="./Order.png" width="600" height="300">
+</br>
+</br>
+
+4-5. 유효성 검사
+</br>
+
+<img src="./validation.png" width="600" height="300">
+</br>
+</br>
+
+
 
 </details>
 
