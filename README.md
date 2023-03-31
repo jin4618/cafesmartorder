@@ -33,8 +33,12 @@
 
 <details>
 <summary>상세설명</summary>
+</br>
 
-내용
+4-1. 전체흐름
+</br>
+
+<img src="./프로젝트구조.png" width="600" height="300">
 
 </details>
 
