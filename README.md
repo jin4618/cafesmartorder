@@ -35,48 +35,42 @@
 <summary>상세설명</summary>
 </br>
 
-4-1. 전체흐름
-</br>
+#### 4-1. 전체흐름
 
 <img src="img/프로젝트구조.png" width="600" height="300">
 </br>
 </br>
 
-4-2. Connection :pushpin: [코드확인]()
+#### 4-2. Connection :pushpin: [코드확인]()
 - JDBC를 활용한 OracleDB 연결
-</br>
+
 </br>
 
-4-3. 메인 화면
-</br>
+#### 4-3. 메인 화면
 
 <img src="img/Main.png" width="600" height="300">
 </br>
 </br>
 
-4-4. 회원가입 및 탈퇴
-</br>
+#### 4-4. 회원가입 및 탈퇴
 
 <img src="img/Member.png" width="600" height="300">
 </br>
 </br>
 
-4-5. 주문
-</br>
+#### 4-5. 주문
 
 <img src="img/Order.png" width="600" height="300">
 </br>
 </br>
 
-4-6. 포인트 적립 및 결제
-</br>
+#### 4-6. 포인트 적립 및 결제
 
 <img src="img/Pay.png" width="600" height="300">
 </br>
 </br>
 
-4-7. 유효성 검사
-</br>
+#### 4-7. 유효성 검사
 
 <img src="img/validations.png" width="600" height="300">
 </br>
