@@ -32,7 +32,7 @@
 - 회원 가입 및 탈퇴를 할 수 있다.
 
 <details>
-<summary>상세설명</summary>
+<summary>상세설명 펼치기</summary>
 </br>
 
 #### 4-1. 전체흐름
