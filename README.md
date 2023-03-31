@@ -95,7 +95,7 @@
 
 <img src="img/validations.png" width="600" height="300">
 </br>
-- 입력 받아야 하는 Data Type이 맞지 않을 경우 다시 입력 받음
+- 입력 받아야 하는 Data 조건이 맞지 않을 경우 다시 입력 받음
 </br>
 
 
