@@ -42,7 +42,7 @@
 </br>
 
 #### 4-2. Connection :pushpin: [코드확인](https://github.com/jin4618/cafesmartorder/blob/4ce1b1a21be77d43740bc542db8b9ff976e21174/src/connection/Connection1.java#L3-L23)
-- JDBC를 활용한 OracleDB 연결
+-	JDBC를 활용한 OracleDB 연결
 
 </br>
 
@@ -50,6 +50,14 @@
 
 <img src="img/Main.png" width="600" height="300">
 </br>
+-	오늘의 인기메뉴</br>
+ -> 결제할 때마다 주문 내역을 DB에 ‘total’ 테이블에 메뉴와 수량을 저장하여 가장 많이 팔린 메뉴 출력 :pushpin: [코드확인]() </br>
+-	회원생성 버튼</br>
+-	메뉴 버튼</br>
+-	결제 버튼</br>
+-	취소 버튼 (추가한 메뉴들 초기화)</br>
+-	회원 탈퇴 버튼</br>
+
 </br>
 
 #### 4-4. 회원가입 및 탈퇴
