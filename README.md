@@ -50,10 +50,10 @@
 
 <img src="img/Main.png" width="600" height="300">
 </br>
--	오늘의 인기메뉴</br>
-=> 결제할 때마다 주문 내역을 DB에 ‘total’ 테이블에 메뉴와 수량을 저장하여 가장 많이 팔린 메뉴 출력 ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/5269d643895da782c0d9a238d979522fe9938847/src/total/TotalDAO.java#L41-L64)
 
-</br>
+-	오늘의 인기메뉴</br>
+ => 결제할 때마다 주문 내역을 DB에 ‘total’ 테이블에 메뉴와 수량을 저장하여 가장 많이 팔린 메뉴 출력 ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/671901a5c604aab8d1ec731f939ebe9a8a34c87f/src/total/TotalDAO.java#L41-L64)
+
 -	회원생성 버튼</br>
 -	메뉴 버튼</br>
 -	결제 버튼</br>
@@ -66,8 +66,8 @@
 
 <img src="img/Member.png" width="600" height="300">
 </br>
+
 - 가입 번호(핸드폰 번호 뒤 4자리) 입력 => DB에서 'member1' 테이블에 insert ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/77eb38e12f8fdd77cdf12e8586e39f07396a9116/src/member/MemberDAO.java#L20-L35)
-</br>
 - 회원 번호(핸드폰 번호 뒤 4자리) 입력 => DB에서 'member1' 테이블에서 데이터를 조회하여 delete ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/77eb38e12f8fdd77cdf12e8586e39f07396a9116/src/member/MemberDAO.java#L37-L52)
 </br>
 
@@ -75,26 +75,29 @@
 
 <img src="img/Order.png" width="600" height="300">
 </br>
--	수량 입력</br>
--	메뉴 추가할 때마다 추가한 메뉴, 수량 및 가격 출력 => DB에서 ‘CafeTable’ 테이블에 저장 ✔️ [코드확인]() </br>
+
+-	수량 입력
+-	메뉴 추가할 때마다 추가한 메뉴, 수량 및 가격 출력 => DB에서 ‘CafeTable’ 테이블에 저장 ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/671901a5c604aab8d1ec731f939ebe9a8a34c87f/src/order/OrderDAO.java#L130-L196) </br>
 </br>
 
 #### 4-6. 포인트 적립 및 결제
 
 <img src="img/Pay.png" width="600" height="300">
 </br>
-- 총 주문 내역 출력 -> DB에 ‘CafeTable’ 테이블에서 데이터를 조회하여 불러옴 ✔️ [코드확인]() </br>
+
+- 총 주문 내역 출력 -> DB에 ‘CafeTable’ 테이블에서 데이터를 조회하여 불러옴 ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/671901a5c604aab8d1ec731f939ebe9a8a34c87f/src/menu/Count.java#L78-L94) </br>
 -	Yes 버튼 누를 시 포인트 적립 창으로 이동</br>
 - 포인트 적립을 원할 경우 회원 번호를 입력 받아 적립</br>
-=> DB에 'member1' 테이블에서 데이터를 조회하고 회원번호가 맞는지 확인 ✔️ [코드확인]() </br>
-=> 현재 포인트 내역 출력 / 5개 모일 시 아메리카노 쿠폰 증정 (포인트 초기화) ✔️ [코드확인]() </br>
+=> DB에 'member1' 테이블에서 데이터를 조회하고 회원번호가 맞는지 확인 ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/671901a5c604aab8d1ec731f939ebe9a8a34c87f/src/point/PointDAO.java#L56-L77) </br>
+=> 현재 포인트 내역 출력 / 5개 모일 시 아메리카노 쿠폰 증정 (포인트 초기화) ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/671901a5c604aab8d1ec731f939ebe9a8a34c87f/src/point/Point_1.java#L52-L91) ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/671901a5c604aab8d1ec731f939ebe9a8a34c87f/src/point/PointDAO.java#L81-L121)</br>
 - 적립을 원하지 않을 경우 결제만 진행</br>
 </br>
 
-#### 4-7. 유효성 검사 ✔️ [코드확인]() 
+#### 4-7. 유효성 검사 ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/671901a5c604aab8d1ec731f939ebe9a8a34c87f/src/menu/Menu.java#L273-L292) ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/671901a5c604aab8d1ec731f939ebe9a8a34c87f/src/menu/Menu.java#L577-L596)
 
 <img src="img/validations.png" width="600" height="300">
 </br>
+
 - 입력 받아야 하는 Data 조건이 맞지 않을 경우 다시 입력 받음
 </br>
 
