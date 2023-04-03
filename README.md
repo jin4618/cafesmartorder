@@ -38,7 +38,6 @@
 #### 4-1. 전체흐름
 
 <img src="img/프로젝트구조.png" width="600" height="300">
-<img src="img/MVC2.png" width="600" height="300">
 </br>
 </br>
 
