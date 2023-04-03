@@ -89,7 +89,7 @@
 -	Yes 버튼 누를 시 포인트 적립 창으로 이동</br>
 - 포인트 적립을 원할 경우 회원 번호를 입력 받아 적립</br>
     - DB에 'member1' 테이블에서 데이터를 조회하고 회원번호가 맞는지 확인 ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/671901a5c604aab8d1ec731f939ebe9a8a34c87f/src/point/PointDAO.java#L56-L77) </br>
-    - 현재 포인트 내역 출력 / 5개 모일 시 아메리카노 쿠폰 증정 (포인트 초기화) ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/671901a5c604aab8d1ec731f939ebe9a8a34c87f/src/point/Point_1.java#L52-L91) ✔️ [코드확인](https://github.com/jin4618/cafesmartorder/blob/671901a5c604aab8d1ec731f939ebe9a8a34c87f/src/point/PointDAO.java#L81-L121)</br>
+    - 현재 포인트 내역 출력 / 5개 모일 시 아메리카노 쿠폰 증정 (포인트 초기화) ✔️ [화면 코드확인](https://github.com/jin4618/cafesmartorder/blob/671901a5c604aab8d1ec731f939ebe9a8a34c87f/src/point/Point_1.java#L52-L91) ✔️ [DAO 코드확인](https://github.com/jin4618/cafesmartorder/blob/671901a5c604aab8d1ec731f939ebe9a8a34c87f/src/point/PointDAO.java#L81-L121)</br>
 - 적립을 원하지 않을 경우 결제만 진행</br>
 </br>
 
